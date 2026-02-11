@@ -53,9 +53,9 @@ Instalar dependências:
 
 ```bash
 pip install -r requirements.txt
+
 Traduzir texto:
-
 python cli.py --text "Hello world"
-Traduzir artigo por URL:
 
+Traduzir artigo por URL:
 python cli.py --url "https://example.com/article" --to pt
