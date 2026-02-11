@@ -1,0 +1,7 @@
+{
+  "API Gateway": "Gateway de API",
+  "throughput": "vazão",
+  "latency": "latência",
+  "microservice": "microsserviço",
+  "cache": "cache"
+}
